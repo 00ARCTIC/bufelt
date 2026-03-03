@@ -12,11 +12,11 @@
  Artico a Svoboda: index.html
  Svoboda a Arzenij: style.css
 
-Postup práce: Vytvoření index.html
-             vytvoření css
-            spojení html a css
-            využití chat pro hezčí css
-            otestování jestli vše funguje
+Postup práce: Vytvoření index.html,
+             vytvoření css,
+            spojení html a css,
+            využití chat pro hezčí css,
+            otestování jestli vše funguje.
 
 
 
