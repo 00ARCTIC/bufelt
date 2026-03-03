@@ -1,4 +1,4 @@
-# bufelt
+# bufet
 
 
 Školní Bufet
